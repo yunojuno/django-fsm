@@ -1,6 +1,11 @@
 Changelog
 =========
 
+django-fsm 2.8.3 (YJ-internal)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Add Django 5.2 compatibility
+
 django-fsm 2.8.2 2024-04-09
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
